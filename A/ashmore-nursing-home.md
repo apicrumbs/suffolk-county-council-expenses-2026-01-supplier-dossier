@@ -1,0 +1,93 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: ASHMORE NURSING HOME"
+- entity_id: "ASHMORE NURSING HOME"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-04-06T17:03:52+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: ASHMORE NURSING HOME
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £54,643.63
+- **Invoice Frequency**: 42 payments processed
+- **Mean Transaction Value**: £1,301.04
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £54,643.63
+- **Transaction Volume**: 42 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £54,644 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £-390.86 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £-1563.43 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3637.12 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £4219.44 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £-651.43 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+- Paid £3648.00 to ASHMORE NURSING HOME (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `20/01/2026` | 42 | £54,643.63 | `**** ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
