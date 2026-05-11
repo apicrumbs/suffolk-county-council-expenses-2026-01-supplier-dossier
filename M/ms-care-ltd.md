@@ -1,0 +1,274 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: MS CARE LTD"
+- entity_id: "MS CARE LTD"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-11T12:49:32+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: MS CARE LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £416,161.94
+- **Invoice Frequency**: 283 payments processed
+- **Mean Transaction Value**: £1,470.54
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £416,161.94
+- **Transaction Volume**: 283 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £416,162 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £1240.62 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1240.62 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1335.02 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £328.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £593.34 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £630.29 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £768.65 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £768.65 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £809.10 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1011.38 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1024.86 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1041.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1065.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1119.26 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1186.68 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1279.73 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1456.38 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1715.06 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1780.02 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2248.72 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2265.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2278.97 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3029.54 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3179.56 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3229.72 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3311.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £4116.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £274.10 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £328.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £356.33 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £431.52 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £431.52 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £438.56 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £485.46 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £613.03 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £863.04 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £966.60 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £970.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £984.41 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1027.88 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1041.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1049.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1078.80 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1092.29 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1146.23 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1173.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1240.62 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1493.85 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1548.67 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1550.78 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1780.02 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2157.60 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2183.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2265.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3179.56 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3311.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £4389.10 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1699.11 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £431.52 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £647.28 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £890.01 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £890.01 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1005.38 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1308.05 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1480.14 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1618.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1833.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2466.90 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2467.76 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2858.82 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £269.70 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £296.67 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £350.61 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £404.55 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £512.43 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £539.40 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £548.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £647.28 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £863.04 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £970.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1206.04 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1294.56 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1809.06 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1863.88 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2589.12 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2670.03 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2850.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £411.29 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £647.28 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £350.61 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £394.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1826.99 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £453.33 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1798.34 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1441.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1425.69 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3334.93 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £262.80 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1206.04 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1397.86 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1577.75 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1642.76 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £1681.92 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2460.20 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3097.33 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3153.60 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3228.24 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3245.03 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3311.84 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £3824.27 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £-650.43 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £573.11 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £674.25 to MS CARE LTD (S4_AA-Care Purchasing)
+- Paid £709.56 to MS CARE LTD (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `08/01/2026` | 134 | £203,845.80 | `*****` |
+|  `29/01/2026` | 149 | £212,316.14 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
