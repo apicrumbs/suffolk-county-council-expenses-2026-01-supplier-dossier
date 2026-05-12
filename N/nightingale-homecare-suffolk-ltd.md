@@ -1,0 +1,274 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: NIGHTINGALE HOMECARE SUFFOLK LTD"
+- entity_id: "NIGHTINGALE HOMECARE SUFFOLK LTD"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-12T15:47:32+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: NIGHTINGALE HOMECARE SUFFOLK LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £363,974.90
+- **Invoice Frequency**: 279 payments processed
+- **Mean Transaction Value**: £1,304.57
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £363,974.90
+- **Transaction Volume**: 279 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £363,975 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £1340.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1274.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £328.50 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1156.32 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2286.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £381.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £722.70 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1090.62 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2128.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £262.80 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3587.22 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3639.78 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £308.79 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £367.92 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £459.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £473.04 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £525.60 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £657.00 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £709.56 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £714.71 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £734.93 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £827.82 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £998.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1200.17 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1235.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1294.29 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1366.56 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1392.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1483.35 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1603.08 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1649.07 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1655.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1655.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1655.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1734.48 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1760.76 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1826.46 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1839.60 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1892.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2009.27 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2305.94 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2454.27 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2575.44 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2643.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2733.12 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2890.80 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2930.22 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3009.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3311.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3311.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3459.69 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £-2305.94 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £-1955.33 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £295.65 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £295.65 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £367.92 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £381.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £446.76 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £459.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £532.66 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £578.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £578.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £579.86 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £674.25 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £683.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £716.13 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £722.70 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £972.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1011.38 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1105.77 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1195.74 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1261.44 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1287.72 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1392.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1405.98 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1497.96 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1511.10 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1571.00 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1603.08 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1635.93 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1642.50 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1655.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1734.48 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1806.75 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1813.32 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2076.12 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2454.27 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2575.44 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2631.73 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2643.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2785.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2825.10 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2930.22 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3311.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3311.28 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £431.52 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £431.52 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £350.61 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1887.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £256.22 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1887.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £714.71 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £512.43 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £719.02 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £310.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £413.98 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £418.04 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £534.50 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £633.80 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £728.19 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £741.68 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £767.48 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £768.65 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £768.65 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £943.95 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £943.95 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1014.17 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1034.95 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1119.26 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1132.74 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1144.37 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1456.38 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1483.35 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1496.84 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1672.14 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1699.11 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1699.11 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1862.91 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1887.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £1887.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2036.24 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2069.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2076.69 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2090.18 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2265.48 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2454.27 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £2643.06 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3069.92 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3775.80 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £3837.40 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £4153.38 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £316.90 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £350.61 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+- Paid £356.33 to NIGHTINGALE HOMECARE SUFFOLK LTD (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `02/01/2026` | 142 | £194,136.30 | `*****` |
+| `29/01/2026` | 137 | £169,838.60 | `**** ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
