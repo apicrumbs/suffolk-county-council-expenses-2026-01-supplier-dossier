@@ -1,0 +1,274 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: NAYLAND CARE AGENCY LTD"
+- entity_id: "NAYLAND CARE AGENCY LTD"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-12T09:47:37+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: NAYLAND CARE AGENCY LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £217,846.96
+- **Invoice Frequency**: 234 payments processed
+- **Mean Transaction Value**: £930.97
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £217,846.96
+- **Transaction Volume**: 234 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £217,847 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £2220.92 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2211.99 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £3174.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £3137.90 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £368.41 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £391.83 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £395.65 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1279.57 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1729.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1973.52 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2544.74 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £343.60 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £380.80 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £386.48 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £658.11 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1309.53 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1656.69 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2417.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1397.91 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1534.96 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1288.09 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £863.04 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £289.34 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £323.77 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £341.98 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £530.50 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £755.16 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £779.46 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1258.55 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1519.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £3026.67 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £319.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £548.57 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £716.86 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £776.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1510.32 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2965.44 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2969.64 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £275.94 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £367.92 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £473.04 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £258.37 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £274.02 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £874.98 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1976.75 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £837.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1990.95 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £251.35 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £312.85 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £379.74 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £397.17 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £404.55 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £442.96 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £725.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £739.25 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £838.01 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £897.40 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £908.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1098.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1201.38 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1235.92 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1541.07 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1583.68 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1607.60 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1775.17 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1810.28 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2461.41 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2491.57 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £337.13 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £339.28 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £388.40 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £440.89 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £705.27 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £815.57 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £842.75 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £901.79 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £923.99 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £988.99 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1062.89 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1257.57 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1541.34 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1591.70 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1782.18 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1805.25 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2437.46 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2664.25 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £301.51 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £274.10 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £274.10 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £973.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £957.44 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £-1020.19 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £388.64 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £525.60 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £709.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £750.82 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1145.69 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1467.74 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2058.78 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2943.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £3435.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £-2943.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £-315.10 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £341.64 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £343.87 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £355.19 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £503.79 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £777.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1095.52 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1476.15 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £3426.25 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £5245.23 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £5421.30 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £269.70 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £337.13 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £374.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £525.60 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1430.16 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £275.94 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £275.94 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £370.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £525.60 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £840.96 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1261.44 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1329.51 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1366.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £335.07 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £354.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £532.85 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £310.49 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £547.64 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £348.45 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £759.48 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £802.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1209.88 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1281.42 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1759.52 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1795.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £274.37 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £756.24 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £761.90 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £782.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1186.85 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1675.03 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1883.58 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £914.28 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £921.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £438.56 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £479.68 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £945.10 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1091.74 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1151.22 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £256.22 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £287.81 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £377.58 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £374.23 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £315.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £788.40 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £946.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1576.80 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £946.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £777.36 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £840.96 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £843.85 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £433.62 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £847.00 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £647.28 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £946.08 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1024.92 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1787.04 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £295.65 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £735.84 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £916.98 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £1787.04 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £2049.72 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £936.62 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+- Paid £849.63 to NAYLAND CARE AGENCY LTD (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `05/01/2026` | 105 | £106,602.78 | `*****` |
+|  `30/01/2026` | 129 | £111,244.18 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
