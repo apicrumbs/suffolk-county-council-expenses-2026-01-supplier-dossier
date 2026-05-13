@@ -1,0 +1,276 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: NORF CO OF DIS PEOPLE SUFF CL/MONIE"
+- entity_id: "NORF CO OF DIS PEOPLE SUFF CL/MONIE"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-13T12:46:13+00:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: NORF CO OF DIS PEOPLE SUFF CL/MONIE
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £946,797.34
+- **Invoice Frequency**: 647 payments processed
+- **Mean Transaction Value**: £1,463.37
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £946,797.34
+- **Transaction Volume**: 647 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 2 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **2** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `**** ` | S4_AA-Care Purchasing | £809,555 | 85.5% |
+| `*    ` | S4_BD-Childrens Social Care and Youth Justice | £137,242 | 14.5% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £644.72 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2578.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2578.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £606.16 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1113.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1144.44 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1173.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2578.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1955.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £255.28 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £373.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £519.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £531.12 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £573.32 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £585.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £663.28 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £741.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £795.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £801.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £813.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £889.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1315.32 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1474.32 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1811.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1849.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1862.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1987.72 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2463.72 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2960.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2975.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £6157.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £9243.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1786.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-590.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-590.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-590.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-671.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-555.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-440.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-401.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-316.40 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-299.44 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-1315.40 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £303.12 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1049.44 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1606.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1606.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2792.40 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1581.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £890.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-1285.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-642.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £474.16 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £596.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £759.32 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £798.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £832.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1242.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1456.28 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1518.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1518.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1537.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1830.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1935.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2280.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2975.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3033.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3364.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £4931.80 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £5413.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2079.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1830.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-490.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-383.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-356.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-303.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-255.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-646.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £983.72 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1943.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £357.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3185.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3190.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3375.16 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £6664.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £733.80 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-271.12 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-820.40 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1884.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £758.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £972.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1133.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1445.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2371.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-352.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-445.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £615.08 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £617.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2672.08 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £11116.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1700.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1861.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-913.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-560.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-526.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1313.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £911.80 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £969.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1133.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1373.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1534.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2029.92 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2413.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3291.08 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1070.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-574.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-651.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £301.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1331.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1712.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2385.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2647.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3141.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1252.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £360.16 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £393.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-424.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-511.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-340.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-741.38 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £989.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1059.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1169.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1174.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1232.12 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1512.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1548.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2131.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1757.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2011.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2899.32 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £347.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1104.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £335.16 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £446.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £446.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £724.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £752.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £981.68 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1077.28 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1104.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1126.92 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1830.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £699.84 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-506.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-429.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-3050.80 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £4781.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-2393.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-2393.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-598.25 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £358.14 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £566.76 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £894.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1340.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1432.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1432.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1607.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2017.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2267.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2267.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £2267.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £4781.48 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £5214.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-569.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-413.12 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-403.08 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £397.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1206.80 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-282.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1015.40 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £386.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £640.00 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £798.96 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £870.04 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £923.56 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1372.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3002.36 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £4135.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £4426.88 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £769.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £3714.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £5191.44 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1091.64 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-592.60 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-680.92 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-454.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1329.52 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £1955.20 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+- Paid £-3749.24 to NORF CO OF DIS PEOPLE SUFF CL/MONIE (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `06/01/2026` | 13 | £8,280.25 | `     ` |
+|  `19/01/2026` | 632 | £936,118.69 | `*****` |
+| `20/01/2026` | 2 | £2,398.40 | `     ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
