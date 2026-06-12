@@ -1,0 +1,274 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2026 - Supplier Dossier: PRIMARY HOMECARE LTD"
+- entity_id: "PRIMARY HOMECARE LTD"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-06-12T13:11:50+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: PRIMARY HOMECARE LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £278,710.53
+- **Invoice Frequency**: 256 payments processed
+- **Mean Transaction Value**: £1,088.71
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £278,710.53
+- **Transaction Volume**: 256 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £278,711 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £1576.13 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1430.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £358.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £730.85 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £735.31 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £861.42 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £715.34 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £275.41 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £300.12 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £380.53 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £389.21 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £576.89 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £691.20 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £740.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £763.25 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £842.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £978.67 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1209.60 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1480.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2312.11 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2667.87 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3736.75 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4683.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £265.12 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £280.14 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £298.12 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £378.69 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £396.30 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £558.19 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £590.64 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £657.81 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £744.25 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £851.47 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £998.11 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1482.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2079.27 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2441.05 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3672.89 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4516.22 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £628.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £600.24 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £262.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £289.08 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £437.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £709.56 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £946.08 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £289.08 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £374.49 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £394.20 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £433.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £473.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £670.14 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1228.59 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2233.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £396.90 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £342.63 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £991.15 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £271.59 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £330.11 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £747.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £989.70 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1499.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1912.98 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1155.53 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1125.31 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1118.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1112.17 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1107.96 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1103.50 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-1103.50 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £-989.70 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £289.66 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £361.09 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £356.81 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1123.21 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1523.98 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £772.89 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1245.20 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1438.57 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £255.97 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £341.64 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £283.19 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £356.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £487.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £729.27 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £737.94 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £765.95 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £781.59 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £803.39 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £905.65 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £930.47 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1006.52 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1030.70 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1100.65 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1122.94 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1153.95 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1176.70 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1185.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1327.73 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1423.59 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1457.19 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1537.02 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1640.13 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1758.44 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1986.07 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2137.43 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2293.39 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2998.52 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3025.22 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3079.43 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3373.56 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3681.30 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4389.02 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £360.82 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £490.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £559.63 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £657.26 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £714.03 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £754.62 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £809.97 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £851.17 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £903.23 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £907.00 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1015.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1029.18 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1065.65 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1144.07 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1230.43 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1331.03 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1345.53 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1486.32 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1521.11 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1653.27 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1742.26 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1848.54 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1990.12 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2220.21 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2419.21 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2805.96 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3020.64 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3160.92 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3355.43 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3686.03 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4374.57 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3016.16 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3001.18 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £323.64 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £2049.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £696.42 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £740.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £740.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £758.97 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £921.64 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1311.63 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1366.56 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1471.68 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1493.23 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1872.19 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3723.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4275.98 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4604.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £466.47 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £476.98 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £493.01 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £632.82 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £748.45 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £759.23 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £775.00 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £934.52 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1103.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1321.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1464.06 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1526.08 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1925.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £3741.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £4604.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1121.10 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £1129.78 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £262.80 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £420.48 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £446.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £446.76 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £473.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £556.08 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £473.04 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £551.88 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £630.72 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £489.78 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+- Paid £639.13 to PRIMARY HOMECARE LTD (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `05/01/2026` | 118 | £139,837.80 | `*****` |
+| `30/01/2026` | 138 | £138,872.73 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-250spendallcols-jan26-formatted.csv ]
+- [REF: Suffolk Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-250spendallcols-jan26-formatted.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
